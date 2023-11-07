@@ -3,7 +3,7 @@ import pickle
 import pandas as pd
 import matplotlib.pyplot as plt
 
-datasets = ["rsivl", "visc", "objects", "scenes", "art", "int", "sup"]
+datasets = ["rsivl", "visc", "objects", "scenes", "art", "int", "sup", "ic9600"]
 output = {}
 
 for dataset in datasets:
